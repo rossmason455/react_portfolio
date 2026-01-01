@@ -49,16 +49,16 @@ export default function App() {
   const toggleTheme = () => setIsDark(currentMode => !currentMode);
 
   return (
-    <div className="min-h-screen bg-background text-foreground relative">
+    <div className="min-h-screen bg-[url('/images/3306716.jpg')] bg-cover bg-center text-foreground relative">
       <Navbar activeSection={activeSection} />
-      <main className='max-w-4xl mx-auto px-6 sm:px-8 lg:px-16'>
+      <main className='max-w-7xl mx-auto px-6 sm:px-8 lg:px-16'>
         <Intro />
         <Projects />
         <Contact />
         <Footer toggleTheme={toggleTheme} isDark={isDark} />
       </main>
 
-      <div className='fixed bottom-0 left-0 h-24 w-full bg-gradient-to-t from-background via-background/80 to-transparent pointer-events-none'></div>
+      <div className='fixed bottom-0 left-0 h-24 w-full from-background via-background/80 to-transparent pointer-events-none'></div>
     </div>
     // <Router>
     //   <Navbar />

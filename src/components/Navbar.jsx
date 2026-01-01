@@ -8,7 +8,7 @@ export default function Navbar({ activeSection }){
                 <button
                     key={section}
                     onClick={() => document.getElementById(section).scrollIntoView({ behavior: 'smooth' })}
-                    className={`w-2 h-8 rounded-full cursor-pointer
+                    className={`w-2 h-8 cursor-pointer
                       ${activeSection === section ? 'bg-foreground' : 'bg-muted-foreground/30 hover:bg-muted-foreground/60'} `}
                 ><span className="text-sm ml-4" >{section}</span></button>
             ))}
