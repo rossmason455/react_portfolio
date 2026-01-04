@@ -13,7 +13,7 @@ export default function Projects() {
     <section id="projects" className="py-20 sm:py-32">
       <div className="space-y-10">
         <div className="space-y-6 sm:space-y-8 max-w-2xl">
-          <h2 className="text-3xl sm:text-4xl font-light">Projects</h2>
+          <h2 className="text-5xl sm:text-4xl font-normal">Projects</h2>
           <p className="text-lg sm:text-xl text-muted-foreground leading-relaxed">
             Projects I have worked on.
           </p>

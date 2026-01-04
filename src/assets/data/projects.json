@@ -1,12 +1,12 @@
 [
     {
-        "slug": "todo-app",
-        "title": "Todo App",
+        "slug": "crowndfund-app",
+        "title": " Crowndfund",
         "description": "A simple todo application to manage daily tasks.",
         "screenshots": [
             {
-                "url": "https://picsum.photos/seed/todoapp/600/400",
-                "caption": "Screenshot of Todo App"
+                "url": "images/crowdfund.png",
+                "caption": "Screenshot of Crowndfund App"
             },
             {
                 "url": "https://picsum.photos/seed/todoapp/600/400",
@@ -23,13 +23,13 @@
         "tags": ["React", "JavaScript", "CSS", "HTML"]
     },
     {
-        "slug": "gif-app",
-        "title": "Gif App",
+        "slug": "Ohme",
+        "title": "Ohme",
         "description": "A simple Tenor Gif application that demonstrates API integration and dynamic content rendering.",
         "screenshots": [
             {
-                "url": "https://picsum.photos/seed/gifapp/600/400",
-                "caption": "Screenshot of Gif App"
+                "url": "images/ohme.png",
+                "caption": "Screenshot of Ohme App"
             }
         ],
         "url": "https://example.com/gif-app",
@@ -38,13 +38,13 @@
         "tags": ["React", "JavaScript", "CSS", "HTML", "APIs"]
     },
     {
-        "slug": "gif-app2",
-        "title": "Gif App",
+        "slug": "asteroids-game",
+        "title": "Asteroids Game",
         "description": "A simple Tenor Gif application that demonstrates API integration and dynamic content rendering.",
         "screenshots": [
             {
-                "url": "https://picsum.photos/seed/gifapp/600/400",
-                "caption": "Screenshot of Gif App"
+                "url": "images/asteroids.jpg",
+                "caption": "Screenshot of Asteroids Game"
             }
         ],
         "url": "https://example.com/gif-app",
@@ -53,13 +53,13 @@
         "tags": ["React", "JavaScript", "CSS", "HTML", "APIs"]
     },
     {
-        "slug": "gif-app3",
-        "title": "Gif App",
+        "slug": "mediDirect-app",
+        "title": "MediDirect App",
         "description": "A simple Tenor Gif application that demonstrates API integration and dynamic content rendering.",
         "screenshots": [
             {
-                "url": "https://picsum.photos/seed/gifapp/600/400",
-                "caption": "Screenshot of Gif App"
+                "url": "images/medidirect.png",
+                "caption": "Screenshot of mediDirect App"
             }
         ],
         "url": "https://example.com/gif-app",
@@ -68,18 +68,41 @@
         "tags": ["React", "JavaScript", "CSS", "HTML", "APIs"]
     },
     {
-        "slug": "gif-app4",
-        "title": "Gif App",
+        "slug": "reality-report-app",
+        "title": "Reality Report App",
         "description": "A simple Tenor Gif application that demonstrates API integration and dynamic content rendering.",
         "screenshots": [
             {
-                "url": "https://picsum.photos/seed/gifapp/600/400",
-                "caption": "Screenshot of Gif App"
+                "url": "images/RR.jpg",
+                "caption": "Screenshot of Reality Report App"
             }
         ],
         "url": "https://example.com/gif-app",
         "github": "",
         "date": "2025",
         "tags": ["React", "JavaScript", "CSS", "HTML", "APIs"]
+    },
+        {
+        "slug": "animalwiki-app",
+        "title": " AnimalWiki",
+        "description": "A simple todo application to manage daily tasks.",
+        "screenshots": [
+            {
+                "url": "images/animalwiki.png",
+                "caption": "Screenshot of AnimalWiki App"
+            },
+            {
+                "url": "https://picsum.photos/seed/todoapp/600/400",
+                "caption": "Screenshot of Todo App"
+            },
+            {
+                "url": "https://picsum.photos/seed/todoapp/600/400",
+                "caption": "Screenshot of Todo App"
+            }
+        ],
+        "url": "https://example.com/todo-app",
+        "github": "",
+        "date": "2025",
+        "tags": ["React", "JavaScript", "CSS", "HTML"]
     }
 ]

@@ -34,7 +34,7 @@ export default function Intro(){
                 <div className="space-y-2">
                   <div className="text-foreground text-lg">STUDENT</div>
                   <div className="text-muted-foreground text-lg">@ IADT</div>
-                  <div className="text-xs text-muted-foreground text-md">2025 — Present</div>
+                  <div className="text-md text-muted-foreground">2025 — Present</div>
                 </div>
               </div>
 
