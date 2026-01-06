@@ -19,8 +19,8 @@
         ],
         "url": "https://example.com/todo-app",
         "github": "",
-        "date": "2025",
-        "tags": ["React", "JavaScript", "CSS", "HTML"]
+        "date": "2024",
+        "tags": ["Laravel", "CSS", "HTML"]
     },
     {
         "slug": "Ohme",
@@ -34,8 +34,8 @@
         ],
         "url": "https://example.com/gif-app",
         "github": "",
-        "date": "2025",
-        "tags": ["React", "JavaScript", "CSS", "HTML", "APIs"]
+        "date": "2024",
+        "tags": ["React", "JavaScript", "CSS", "HTML"]
     },
     {
         "slug": "asteroids-game",
@@ -50,7 +50,7 @@
         "url": "https://example.com/gif-app",
         "github": "",
         "date": "2025",
-        "tags": ["React", "JavaScript", "CSS", "HTML", "APIs"]
+        "tags": ["P5.js", "JavaScript", "HTML", "CSS"]
     },
     {
         "slug": "mediDirect-app",
@@ -79,8 +79,8 @@
         ],
         "url": "https://example.com/gif-app",
         "github": "",
-        "date": "2025",
-        "tags": ["React", "JavaScript", "CSS", "HTML", "APIs"]
+        "date": "2024",
+        "tags": ["JavaScript", "CSS", "HTML"]
     },
         {
         "slug": "animalwiki-app",
@@ -102,7 +102,7 @@
         ],
         "url": "https://example.com/todo-app",
         "github": "",
-        "date": "2025",
-        "tags": ["React", "JavaScript", "CSS", "HTML"]
+        "date": "2024",
+        "tags": ["Laravel", "CSS", "HTML"]
     }
 ]
