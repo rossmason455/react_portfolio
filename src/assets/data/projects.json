@@ -2,7 +2,7 @@
     {
         "slug": "crowndfund-app",
         "title": " Crowndfund",
-        "description": "A simple todo application to manage daily tasks.",
+        "description": "CrowdFund is a dynamic platform designed for entrepreneurs and creators to showcase their crowdfunding campaigns through detailed project pages, multimedia galleries, and real-time progress updates.",
         "screenshots": [
             {
                 "url": "images/crowdfund.png",
@@ -25,10 +25,10 @@
     {
         "slug": "Ohme",
         "title": "Ohme",
-        "description": "A simple Tenor Gif application that demonstrates API integration and dynamic content rendering.",
+        "description": "Ohme is an intuitive mobile and web app designed to help homeowners monitor and optimize their energy consumption. Users can connect smart meters, appliances, and IoT devices to track real-time usage data across electricity, gas, and water.",
         "screenshots": [
             {
-                "url": "images/ohme.png",
+                "url": "images/ohme.jpg",
                 "caption": "Screenshot of Ohme App"
             }
         ],
@@ -40,7 +40,7 @@
     {
         "slug": "asteroids-game",
         "title": "Asteroids Game",
-        "description": "A simple Tenor Gif application that demonstrates API integration and dynamic content rendering.",
+        "description": "Asteroids Remake is a modern recreation of the classic arcade game, built with P5.js and JavaScript. Players control a spaceship to destroy asteroids, avoid collisions, and score points while upgrading weapons.",
         "screenshots": [
             {
                 "url": "images/asteroids.jpg",
@@ -55,7 +55,7 @@
     {
         "slug": "mediDirect-app",
         "title": "MediDirect App",
-        "description": "A simple Tenor Gif application that demonstrates API integration and dynamic content rendering.",
+        "description": "MediDirect is a healthcare app that allows users to view detailed information about doctors, manage prescriptions, schedule appointments, and access patient records securely through an intuitive interface.",
         "screenshots": [
             {
                 "url": "images/medidirect.png",
@@ -70,7 +70,7 @@
     {
         "slug": "reality-report-app",
         "title": "Reality Report App",
-        "description": "A simple Tenor Gif application that demonstrates API integration and dynamic content rendering.",
+        "description": "Reality Report is a news aggregation app that curates real-time articles, videos, and updates on global events. Users can customize feeds, save favorites, and share content across social platforms.",
         "screenshots": [
             {
                 "url": "images/RR.jpg",
@@ -85,7 +85,7 @@
         {
         "slug": "animalwiki-app",
         "title": " AnimalWiki",
-        "description": "A simple todo application to manage daily tasks.",
+        "description": "Animal Wiki is an interactive encyclopedia app featuring detailed profiles of various animals, including facts, habitats, behaviors, and images. Users can search, filter by categories, and learn about wildlife conservation.",
         "screenshots": [
             {
                 "url": "images/animalwiki.png",

@@ -42,7 +42,7 @@ export function ProjectCard({ project }) {
       )}
 
       {/* Details Overlay - Slides up to cover the whole card on hover */}
-      <div className="absolute inset-0 bg-white/10 backdrop-blur-lg p-4 transform translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out text-white flex flex-col justify-center">
+      <div className="absolute inset-0 bg-black/30 backdrop-blur-lg p-4 transform translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out text-white flex flex-col justify-center">
         <h3 className="text-2xl font-semibold mb-4">{title}</h3>
         <p className="text-sm mt-1 opacity-90">
           {date && <span className="font-medium mr-2">{date}</span>}
